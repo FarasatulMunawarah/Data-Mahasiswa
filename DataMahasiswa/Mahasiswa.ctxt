@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=Mahasiswa
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Mahasiswa\ here.\r\n\r\n\ @author\ Farasatul\ Munawarah\r\n\ @version\ 0.1\r\n
+comment1.params=nim\ nama\ kelas\ umur\ alamat
+comment1.target=Mahasiswa(int,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment10.params=umur
+comment10.target=void\ setumurMhs(int)
+comment11.params=alamat
+comment11.target=void\ setalamatMhs(java.lang.String)
+comment2.params=
+comment2.target=int\ getnimMhs()
+comment3.params=
+comment3.target=java.lang.String\ getnamaMhs()
+comment4.params=
+comment4.target=java.lang.String\ getkelasMhs()
+comment5.params=
+comment5.target=int\ getumurMhs()
+comment6.params=
+comment6.target=java.lang.String\ getalamatMhs()
+comment7.params=nim
+comment7.target=void\ setnimMhs(int)
+comment8.params=nama
+comment8.target=void\ setnamaMhs(java.lang.String)
+comment9.params=kelas
+comment9.target=void\ setkelasMhs(java.lang.String)
+numComments=12
